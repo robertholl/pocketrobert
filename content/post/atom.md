@@ -5,7 +5,6 @@ draft: false
 sidebar: "left" # Enable sidebar (on the right side) per page
 thumbnail: "atom_image.png"
 categories:
-  - "Development"
   - "Applications"
 tags:
   - "Atom"
