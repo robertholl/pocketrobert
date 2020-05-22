@@ -3,7 +3,7 @@ title: "Atom"
 date: 2020-05-21T04:36:18-04:00
 draft: false
 sidebar: "left" # Enable sidebar (on the right side) per page
-thumbnail: "linux-downloads.png"
+thumbnail: "atom_image.png"
 categories:
   - "Development"
   - "Applications"
