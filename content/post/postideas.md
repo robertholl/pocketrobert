@@ -6,8 +6,6 @@ thumbnail: ""
 sidebar: "left" # Enable sidebar (on the right side) per page
 categories:
   - "Development"
-tags:
-  - "HTML"
 menu:
     main:
       name: "Post Ideas"
@@ -18,10 +16,15 @@ menu:
 
 1. Github
 2. Gitlab
-3. Atom
+3. Markdown
 4. Linux Commands
 5. SQL
 6. Debian Linux
 7. Create Podcast
 8. Pandoc
-9. Markdown
+9. awk
+- list/field
+- separator
+- counts
+- concatination
+- Max/Min
