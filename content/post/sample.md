@@ -1,7 +1,7 @@
 ---
 title: "Sample"
 date: 2020-08-29T12:39:51-04:00
-draft: false
+draft: true
 thumbnail: ""
 sidebar: "left" # Enable sidebar (on the right side) per page
 categories:
@@ -181,3 +181,6 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd>X</kbd> to win. Or press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>F</kbd></kbd> to show FPS counter.
 
 <mark>As a unit of information in information theory, the bit has alternatively been called a shannon</mark>, named after Claude Shannon, the founder of field of information theory.
+
+
+{{< youtube W5DygJ2xpxM>}}
