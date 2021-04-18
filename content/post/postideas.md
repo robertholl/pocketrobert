@@ -29,3 +29,5 @@ menu:
 - counts
 - concatination
 - Max/Min
+11. Sublime Text 3
+12. Hugo static site generator
