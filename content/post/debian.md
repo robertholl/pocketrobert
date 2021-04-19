@@ -2,7 +2,7 @@
 title: "Debian"
 thumbnail: "tux.png"
 date: 2020-05-20T01:42:37-04:00
-draft: false
+draft: true
 sidebar: "left" # Enable sidebar (on the right side) per page
 categories:
   - "Applications"

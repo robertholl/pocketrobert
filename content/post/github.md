@@ -1,7 +1,7 @@
 ---
 title: "Github"
 date: 2020-05-21T02:53:21-04:00
-draft: false
+draft: true
 thumbnail: "linux-downloads.png"
 sidebar: "left" # Enable sidebar (on the right side) per page
 categories:
