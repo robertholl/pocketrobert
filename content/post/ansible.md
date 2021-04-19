@@ -1,6 +1,6 @@
 ---
 title: "Ansible"
-date: 2021-054-15T19:26:42-04:00
+date: 2021-04-17T01:42:37-04:00
 draft: false
 thumbnail: ""
 categories:
