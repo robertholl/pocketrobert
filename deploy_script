@@ -3,6 +3,7 @@ USER=rholl
 HOST=plexserver             
 DIR=/public_html/   # the directory where your web site files should go
 
-hugo && rsync -avz --delete Public/ ${USER}@${HOST}:~/${DIR}
+rm -rf Public/
+-avz --delete Public/ ${USER}@${HOST}:~/${DIR}
 
 exit 0
