@@ -1,7 +1,7 @@
 ---
 title: "Sample"
 date: 2020-08-29T12:39:51-04:00
-draft: false
+draft: true
 thumbnail: ""
 sidebar: "left" # Enable sidebar (on the right side) per page
 categories:
