@@ -30,11 +30,11 @@ awk -F "," '{print $1}' poplation_by_zipcode
 Awk command for subtracting previous value from current value to return difference.
 
 ```html
-awk -F "," '{if($2 == 22625) {print $1, $2, $3}}' VDH-COVID-19-PublicUseDataset-ZIPCode.csv | awk 'NR==1{p=$3;next}{print $1, $2, $3, $3-p; p=$3}END{print p}'
+awk -F "," '{if($2 == 22625) {print $1, $2, $3}}' poplation_by_zipcode.csv | awk 'NR==1{p=$3;next}{print $1, $2, $3, $3-p; p=$3}END{print p}'
 ```
 #### Example Source Data:
 
-| Report Date |	ZIP Code | Number of Cases |
+| Report Date |	ZIP Code | Population |
 | ----------- | --------- | --------------- |
 | 08/21/2020  |	22625	   | 15              |
 | 08/22/2020  |	22625	   | 16              |
@@ -47,7 +47,7 @@ awk -F "," '{if($2 == 22625) {print $1, $2, $3}}' VDH-COVID-19-PublicUseDataset-
 
 #### Resulting Output of awk command:
 
-| Report Date |	ZIP Code | Number of Cases | Difference |
+| Report Date |	ZIP Code | Population | Difference |
 |----------- | --------- | --------------- | ---------- |
 | 08/21/2020  |	22625	   | 15              | 0          |
 | 08/22/2020  |	22625	   | 16              | 1          |
