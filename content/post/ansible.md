@@ -18,4 +18,3 @@ menu:
 
 This is the Ansible post!
 
-https://sensus.com
