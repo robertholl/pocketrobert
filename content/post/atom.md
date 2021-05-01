@@ -1,11 +1,11 @@
 ---
 title: "Atom"
 date: 2020-05-21T04:36:18-04:00
-draft: false
+draft: true
 sidebar: "left" # Enable sidebar (on the right side) per page
 thumbnail: "atom_image.png"
 categories:
-  - "Applications"
+  - "Development"
 tags:
   - "Atom"
 ---

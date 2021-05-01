@@ -4,13 +4,13 @@ date: 2021-04-17T01:42:37-04:00
 draft: true
 thumbnail: ""
 categories:
-  - "Applications"
+  - "Development"
 tags:
   - "Ansible"
   - "Development"
 menu:
     main:
-      name: "Ansible"
+      name: "Applications"
       weight: 10
 ---
 
