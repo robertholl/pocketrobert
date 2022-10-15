@@ -27,9 +27,9 @@ PublishDir = "Public"
   mainSections = ["awk", "tools"] # Specify section pages to show on home page and the "Recent articles" widget
 
 #[Params.sidebar]
-#  home = "left"   # Configure layout for home page
-#  list = "left"   # Configure layout for list pages
-#  single = "left" # Configure layout for single pages
+  home = "left"   # Configure layout for home page
+  list = "left"   # Configure layout for list pages
+  single = "left" # Configure layout for single pages
 #  # Enable widgets in given order
 #  #widgets = ["recent", "categories", "taglist"]
 #  widgets = ["recent", "categories"]
