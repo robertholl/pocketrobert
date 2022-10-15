@@ -13,4 +13,3 @@ Some interesting challenges arise when your local host machine is running Window
 
 The linux terminal utility called "screen" allows you to create a virtualized sesson that are independent of your connection to server. This can be critical when running a long process that can't be terminated if the remote connection becomes disconnected.  Another great feature is that you can split a terminal window to have multiple smaller terminals within the larger window.  A good analogy is a house window being the terminal, but then splitting the window into glass areas between the window muntins.  Once the screen is split it is possible to run a different terminal command in each screen independently.
 
-![split screens](/static/split_screens.png "image")
