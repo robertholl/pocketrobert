@@ -2,7 +2,6 @@
 title: "Split_screen"
 date: 2022-10-15T15:54:06-04:00
 draft: false
-thumbnail: "linux-downloads.png"
 categories:
   - "Terminal Tools"
 
