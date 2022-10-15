@@ -2,7 +2,6 @@
 title: "Split Screen Terminals"
 date: 2021-04-20T19:26:42-04:00
 draft: false
-thumbnail: ""
 categories:
   - "Terminal Tools"
 tags:
