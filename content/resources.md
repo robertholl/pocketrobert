@@ -7,7 +7,7 @@ type: page
 menu:
     main:
       name: Resources
-      weight: 20
+      weight: 51
 ---
 
 ## Affiliate Links

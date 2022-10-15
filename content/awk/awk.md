@@ -2,15 +2,12 @@
 title: "Awk"
 date: 2020-05-22T19:26:42-04:00
 draft: false
+toc: true
 thumbnail: ""
 categories:
   - "Terminal Tools"
 tags:
   - "Awk"
-menu:
-    main:
-      name: "Terminal Tools"
-      weight: 10
 ---
 
 Awk is a powerful language mainly for data extraction.  My main use has been to extract specific records or fields from large data set files before further analyzing in Excel or other text editors.  Some data sets I have worked with have been so large that Excel is unable to load the data set, which has required initial data extraction by either extracting only the required combination of records or fields of the data set.
@@ -57,3 +54,23 @@ awk -F "," '{if($2 == 24014) {print $1, $2, $3}}' poplation_by_zipcode.csv | awk
 | 08/26/2020  |	24014	   | 17              | 0          |
 | 08/27/2020  |	24014	   | 17              | 0          |
 | 08/28/2020  |	24014	   | 17              | 0          |
+
+### Adding Line Number
+```html
+awk '{print NR" "$0}' file.txt
+```
+
+#### Example Source Data:
+
+$cat file.txt\
+First Line of file\
+Another line in file\
+This is a last line in file
+
+#### Resulting Output of awk command:
+awk '{print NR" "$0}' file.txt\
+1 First Line of file\
+2 Another line in file\
+3 This is a last line in file
+
+

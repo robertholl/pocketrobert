@@ -1,7 +1,7 @@
 ---
 title: "Postideas"
 date: 2020-05-20T02:58:02-04:00
-draft: true
+draft: false
 thumbnail: ""
 sidebar: "left" # Enable sidebar (on the right side) per page
 categories:
