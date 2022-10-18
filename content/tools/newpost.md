@@ -7,4 +7,4 @@ categories:
 
 ---
 
-This is a new post of plexserver without Hugo running.  This is also on a new branch that will be merged to master for testing.
+This is a new post of plexserver without Hugo running.  This is also on a new branch that will be merged to master for testing. Will this update the site?
