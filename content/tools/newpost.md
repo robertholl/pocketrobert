@@ -1,6 +1,6 @@
 ---
 title: "New Post"
-date: 2022-10-15T15:54:06-04:00
+date: 2022-10-16T15:54:06-04:00
 draft: false
 categories:
   - "Terminal Tools"
