@@ -62,12 +62,12 @@ PublishDir = "public"
     identifier = "AWK"
     name = "AWK"
     pre = "<i class='fa fa-heart'></i>"
-    url = "./awk/"
+    url = "./awk"
     weight = 2
   [[menu.main]]
     identifier = "Tools"
     name = "Tools"
     pre = "<i class='fa fa-heart'></i>"
-    url = "./tools/"
+    url = "./tools"
     weight = 3
 
