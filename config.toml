@@ -4,7 +4,7 @@ baseurl = "./"
 title = "Pocketrobert"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-theme = "mainroad"
+theme = "Mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 PublishDir = "public"
@@ -58,16 +58,16 @@ PublishDir = "public"
     pre = "<i class='fa fa-heart'></i>"
     url = "/"
     weight = 1
-#  [[menu.main]]
-#    identifier = "AWK"
-#    name = "AWK"
-#    pre = "<i class='fa fa-heart'></i>"
-#    url = "./awk/"
-#    weight = 2
-#  [[menu.main]]
-#    identifier = "Tools"
-#    name = "Tools"
-#    pre = "<i class='fa fa-heart'></i>"
-#    url = "./tools/"
-#    weight = 3
+  [[menu.main]]
+    identifier = "AWK"
+    name = "AWK"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "./awk/"
+    weight = 2
+  [[menu.main]]
+    identifier = "Tools"
+    name = "Tools"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "./tools/"
+    weight = 3
 
