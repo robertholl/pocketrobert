@@ -1,6 +1,6 @@
 #baseURL = "http://plexserver/~rholl/"
-baseurl = "pocketrobert"
-#baseurl = "./"
+#baseurl = "pocketrobert"
+baseurl = "./"
 title = "Pocketrobert"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
